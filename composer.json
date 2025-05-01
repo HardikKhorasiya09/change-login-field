@@ -11,7 +11,7 @@
             "Hardikkhorasiya09\\ChangeLoginField\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "hardikkhorasiya09",

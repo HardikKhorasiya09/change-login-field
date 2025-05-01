@@ -1,0 +1,31 @@
+{
+    "name": "hardikkhorasiya09/change-login-field",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "filament/filament": "^3.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hardikkhorasiya09\\ChangeLoginField\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "hardikkhorasiya09",
+            "email": "hardik@trileotech.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hardikkhorasiya09\\ChangeLoginField\\ChangeLoginFieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
